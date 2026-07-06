@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-07-06T11:54:37+00:00",
+  "generated_at_utc": "2026-07-06T14:43:25+00:00",
   "record_start": "2026-07-06",
-  "as_of": "2026-07-02",
+  "as_of": "2026-07-06",
   "starting_capital": 15000.0,
   "equity": 15000.0,
   "total_return_pct": 0.0,
   "closed_trades": 0,
-  "open_trades": 0,
+  "open_trades": 8,
   "hit_rate_pct": null,
   "profit_factor": null,
   "equity_curve": [
@@ -15,6 +15,87 @@
       "equity": 15000.0
     }
   ],
-  "trades": [],
+  "trades": [
+    {
+      "ticker": "MXL",
+      "entry_date": "2026-07-06",
+      "entry": 94.5172,
+      "status": "OPEN",
+      "exit_date": null,
+      "exit": null,
+      "reason": null,
+      "pct_return": null
+    },
+    {
+      "ticker": "OUST",
+      "entry_date": "2026-07-06",
+      "entry": 51.3256,
+      "status": "OPEN",
+      "exit_date": null,
+      "exit": null,
+      "reason": null,
+      "pct_return": null
+    },
+    {
+      "ticker": "HUM",
+      "entry_date": "2026-07-06",
+      "entry": 398.199,
+      "status": "OPEN",
+      "exit_date": null,
+      "exit": null,
+      "reason": null,
+      "pct_return": null
+    },
+    {
+      "ticker": "SN",
+      "entry_date": "2026-07-06",
+      "entry": 153.2866,
+      "status": "OPEN",
+      "exit_date": null,
+      "exit": null,
+      "reason": null,
+      "pct_return": null
+    },
+    {
+      "ticker": "GKOS",
+      "entry_date": "2026-07-06",
+      "entry": 150.075,
+      "status": "OPEN",
+      "exit_date": null,
+      "exit": null,
+      "reason": null,
+      "pct_return": null
+    },
+    {
+      "ticker": "AAL",
+      "entry_date": "2026-07-06",
+      "entry": 18.094,
+      "status": "OPEN",
+      "exit_date": null,
+      "exit": null,
+      "reason": null,
+      "pct_return": null
+    },
+    {
+      "ticker": "MOH",
+      "entry_date": "2026-07-06",
+      "entry": 229.3246,
+      "status": "OPEN",
+      "exit_date": null,
+      "exit": null,
+      "reason": null,
+      "pct_return": null
+    },
+    {
+      "ticker": "RVMD",
+      "entry_date": "2026-07-06",
+      "entry": 192.3461,
+      "status": "OPEN",
+      "exit_date": null,
+      "exit": null,
+      "reason": null,
+      "pct_return": null
+    }
+  ],
   "disclaimer": "Paper-trading record. Impersonal market commentary, not investment advice. Past performance does not guarantee future results."
 }
