@@ -87,7 +87,8 @@ fetch("track_record.json?" + Date.now())
 
 function render(d) {
   document.getElementById("asof").textContent =
-    "record starts " + d.record_start + (d.as_of ? " · data through " + d.as_of : "");
+    "record starts " + d.record_start + (d.as_of ? " · data through " + d.as_of : "")
+    + (d.generated_at_utc ? " · updated " + d.generated_at_utc.replace("T", " ").replace("+00:00", " UTC") : "");
   document.getElementById("disclaimer").textContent = d.disclaimer || "";
   document.getElementById("history").href = REPO_COMMITS_URL;
 
