@@ -19,7 +19,8 @@ not to be believed — it's to be **checked**.
   is known*.
 - Every update is a git commit. GitHub independently timestamps and
   cryptographically chains commits, so the
-  [commit history](../../commits) is an audit trail no one can quietly rewrite:
+  [commit history](https://github.com/Hrh0020/momentum-track-record/commits/main)
+  is an audit trail no one can quietly rewrite:
   any change to a past entry would show permanently in the diff.
 - Don't trust the summary numbers on the page — read the ledger and the history.
 
