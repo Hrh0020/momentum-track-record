@@ -1,12 +1,12 @@
 {
-  "generated_at_utc": "2026-07-07T13:37:00+00:00",
+  "generated_at_utc": "2026-07-08T13:06:41+00:00",
   "record_start": "2026-07-06",
-  "as_of": "2026-07-06",
+  "as_of": "2026-07-07",
   "starting_capital": 15000.0,
   "equity": 15000.0,
   "total_return_pct": 0.0,
   "closed_trades": 0,
-  "open_trades": 8,
+  "open_trades": 10,
   "hit_rate_pct": null,
   "profit_factor": null,
   "equity_curve": [
@@ -16,6 +16,26 @@
     }
   ],
   "trades": [
+    {
+      "ticker": "OSCR",
+      "entry_date": "2026-07-07",
+      "entry": 31.7158,
+      "status": "OPEN",
+      "exit_date": null,
+      "exit": null,
+      "reason": null,
+      "pct_return": null
+    },
+    {
+      "ticker": "CRDO",
+      "entry_date": "2026-07-07",
+      "entry": 249.9849,
+      "status": "OPEN",
+      "exit_date": null,
+      "exit": null,
+      "reason": null,
+      "pct_return": null
+    },
     {
       "ticker": "MXL",
       "entry_date": "2026-07-06",
