@@ -6,3 +6,5 @@
 {"date":"2026-07-06","event":"ENTRY","ticker":"AAL","fill":18.094,"shares":58,"stop":15.5342,"target":25.0775}
 {"date":"2026-07-06","event":"ENTRY","ticker":"MOH","fill":229.3246,"shares":5,"stop":200.5022,"target":317.9735}
 {"date":"2026-07-06","event":"ENTRY","ticker":"RVMD","fill":192.3461,"shares":5,"stop":164.0279,"target":264.8763}
+{"date":"2026-07-07","event":"ENTRY","ticker":"OSCR","fill":31.7158,"shares":14,"stop":25.8711,"target":49.34}
+{"date":"2026-07-07","event":"ENTRY","ticker":"CRDO","fill":249.9849,"shares":1,"stop":179.9674,"target":569.7178}
