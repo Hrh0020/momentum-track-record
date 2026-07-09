@@ -8,6 +8,11 @@ Format: `YYYY-MM-DD · [DECIDED | RECOMMENDED | OPEN] · topic — decision · (
 
 ## Log
 
+- **2026-07-08 · DECIDED · Visual direction — "Antique brass"** — Warm/luxurious, non-neon; minimal/precise. Both dark and sand-light palettes built. *(Design center; replaces placeholder palette in `index.html`.)*
+- **2026-07-08 · DECIDED · Color tokens (§7a)** — Dark/sand hexes delivered for `--bg/--panel/--border/--text/--muted/--accent/--pos/--neg`. `--accent` is two values (`#B8933D` dark / `#93701F` sand) for AA contrast on each ground. See `Ledger_Line__Brand_Handoff.md`.
+- **2026-07-08 · DECIDED · Type (§7b)** — `--sans` = "Instrument Sans", `--mono` = "IBM Plex Mono"; both OFL, self-hosted (no CDN — Pages stays dependency-free).
+- **2026-07-08 · DECIDED · Brand assets delivered** — Production logo (mark + lockup, dark/sand), favicons (svg/32/180/512), and OG card received from Design. Ready to wire into the page.
+- **2026-07-08 · OPEN · Default mode (sand vs dark)** — Which palette loads first is unsettled; light-mode §9 item now scoped to two full palettes + a toggle.
 - **2026-07-08 · DECIDED · Brand name — "Ledger Line"** — Standalone product brand (not personal). Momentum stays in tagline/copy, not the name, to preserve room for future strategies under the same brand. *(Web-search diligence only: no SEC-registered adviser/fund found; two unrelated small bookkeeping/accounting businesses use similar names, different category, low collision risk. Formal USPTO TESS + state business-registry search still pending before filing an LLC or trademark.)*
 - **2026-07-08 · DECIDED · Voice/tone** — Lands between the humble-auditable draft voice ("not to be believed — to be checked") and something bolder. Not deadpan, not hype-y.
 - **2026-07-08 · DECIDED · Alignment model** — This repo is the single source of truth. Decisions made in chat/design are recorded here + in `PRODUCT_ROADMAP.md`; no rival master copies. *(Working Agreement, roadmap §8.)*
@@ -28,5 +33,6 @@ Format: `YYYY-MM-DD · [DECIDED | RECOMMENDED | OPEN] · topic — decision · (
 - [ ] Public-ledger delay length
 - [ ] Domain name (ledgerline.com or similar — check availability, grab it soon)
 - [ ] Formal trademark/business-registry check on "Ledger Line" before filing
-- [ ] Light mode? (dark-only today)
+- [x] Light mode? — **both dark + sand palettes built**; default (which loads first) still open
+- [ ] Default mode — sand-light or dark loads first (blocks the restyle apply)
 - [ ] Tier count + prices
