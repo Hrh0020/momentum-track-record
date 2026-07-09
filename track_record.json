@@ -1,17 +1,25 @@
 {
-  "generated_at_utc": "2026-07-08T13:06:41+00:00",
+  "generated_at_utc": "2026-07-09T14:12:00+00:00",
   "record_start": "2026-07-06",
-  "as_of": "2026-07-07",
+  "as_of": "2026-07-09",
   "starting_capital": 15000.0,
   "equity": 15000.0,
   "total_return_pct": 0.0,
-  "closed_trades": 0,
-  "open_trades": 10,
-  "hit_rate_pct": null,
+  "closed_trades": 2,
+  "open_trades": 8,
+  "hit_rate_pct": 0.0,
   "profit_factor": null,
   "equity_curve": [
     {
       "date": "2026-07-06",
+      "equity": 15000.0
+    },
+    {
+      "date": "2026-07-08",
+      "equity": 15000.0
+    },
+    {
+      "date": "2026-07-08",
       "equity": 15000.0
     }
   ],
@@ -40,9 +48,9 @@
       "ticker": "MXL",
       "entry_date": "2026-07-06",
       "entry": 94.5172,
-      "status": "OPEN",
-      "exit_date": null,
-      "exit": null,
+      "status": "CLOSED",
+      "exit_date": "2026-07-08",
+      "exit": 86.05,
       "reason": null,
       "pct_return": null
     },
@@ -50,9 +58,9 @@
       "ticker": "OUST",
       "entry_date": "2026-07-06",
       "entry": 51.3256,
-      "status": "OPEN",
-      "exit_date": null,
-      "exit": null,
+      "status": "CLOSED",
+      "exit_date": "2026-07-08",
+      "exit": 43.41,
       "reason": null,
       "pct_return": null
     },

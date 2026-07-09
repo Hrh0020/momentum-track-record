@@ -8,3 +8,5 @@
 {"date":"2026-07-06","event":"ENTRY","ticker":"RVMD","fill":192.3461,"shares":5,"stop":164.0279,"target":264.8763}
 {"date":"2026-07-07","event":"ENTRY","ticker":"OSCR","fill":31.7158,"shares":14,"stop":25.8711,"target":49.34}
 {"date":"2026-07-07","event":"ENTRY","ticker":"CRDO","fill":249.9849,"shares":1,"stop":179.9674,"target":569.7178}
+{"date":"2026-07-08","event":"EXIT","ticker":"MXL","reason":null,"fill":86.05,"pct_return":null,"realized_pnl":null}
+{"date":"2026-07-08","event":"EXIT","ticker":"OUST","reason":null,"fill":43.41,"pct_return":null,"realized_pnl":null}
