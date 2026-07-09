@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212" height="44" viewBox="0 0 212 44" role="img" aria-label="Ledger Line">
+  <circle cx="22" cy="22" r="12" fill="none" stroke="#93701F" stroke-width="2.2"></circle>
+  <line x1="16" y1="24.5" x2="28" y2="15.5" stroke="#262019" stroke-width="2.2" stroke-linecap="round"></line>
+  <text x="46" y="29" font-family="&#39;Instrument Sans&#39;, -apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, sans-serif" font-size="23" font-weight="600" letter-spacing="-0.3" fill="#262019">Ledger Line</text>
+</svg>
