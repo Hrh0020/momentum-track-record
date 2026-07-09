@@ -8,6 +8,8 @@ Format: `YYYY-MM-DD · [DECIDED | RECOMMENDED | OPEN] · topic — decision · (
 
 ## Log
 
+- **2026-07-08 · DECIDED · Brand name — "Ledger Line"** — Standalone product brand (not personal). Momentum stays in tagline/copy, not the name, to preserve room for future strategies under the same brand. *(Web-search diligence only: no SEC-registered adviser/fund found; two unrelated small bookkeeping/accounting businesses use similar names, different category, low collision risk. Formal USPTO TESS + state business-registry search still pending before filing an LLC or trademark.)*
+- **2026-07-08 · DECIDED · Voice/tone** — Lands between the humble-auditable draft voice ("not to be believed — to be checked") and something bolder. Not deadpan, not hype-y.
 - **2026-07-08 · DECIDED · Alignment model** — This repo is the single source of truth. Decisions made in chat/design are recorded here + in `PRODUCT_ROADMAP.md`; no rival master copies. *(Working Agreement, roadmap §8.)*
 - **2026-07-08 · DECIDED · Design→code handoff format** — Colors/fonts returned as the CSS variable names in roadmap §7 (`--bg`, `--panel`, `--border`, `--text`, `--muted`, `--pos`, `--neg`, `--accent`, `--sans`, `--mono`). *(Zero-translation contract.)*
 - **2026-07-08 · DECIDED · Design builds against `DATA_CONTRACT.md` only** — No invented metrics; new metrics require an engine change routed through Code.
@@ -20,10 +22,11 @@ Format: `YYYY-MM-DD · [DECIDED | RECOMMENDED | OPEN] · topic — decision · (
 
 ## Open (see roadmap §9)
 
-- [ ] Personal brand vs. product brand — **decide first**
+- [x] Personal brand vs. product brand — **"Ledger Line"**, standalone product brand
 - [ ] Platform confirmation (beehiiv / Ghost / Substack)
-- [ ] Voice/tone
+- [x] Voice/tone — between humble-auditable and bolder
 - [ ] Public-ledger delay length
-- [ ] Domain name
+- [ ] Domain name (ledgerline.com or similar — check availability, grab it soon)
+- [ ] Formal trademark/business-registry check on "Ledger Line" before filing
 - [ ] Light mode? (dark-only today)
 - [ ] Tier count + prices
