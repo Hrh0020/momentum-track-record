@@ -40,5 +40,12 @@ not to be believed — it's to be **checked**.
   research. It is not personalized investment advice, and not a solicitation or
   recommendation to buy or sell any security.** Past performance does not
   guarantee future results.
-- The clean record begins **2026-07-06**. Any earlier experimentation is not
+- The clean record begins **2026-07-10**. Any earlier experimentation is not
   part of this record.
+- **Methodology note (2026-07-10):** the record was reset and restarted on this
+  date after we found and fixed a pipeline bug in which a duplicate exit routine
+  closed positions using rules that did not match the published strategy (and
+  without recording P&L). Rather than patch data produced by the wrong logic, we
+  reset to a clean start so the record faithfully reflects the actual strategy
+  from day one. This note is permanent — the point of this repo is that
+  corrections are disclosed, not hidden.
